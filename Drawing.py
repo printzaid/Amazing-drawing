@@ -1,6 +1,6 @@
-# Python program to draw
+# Python program to draw 
 # Rainbow Benzene
-# using Turtle Programming
+# using Turtle Programming in python
 # Made with love
 import turtle
 colors = ['white', 'grey', 'white', 'grey', 'white', 'grey']
